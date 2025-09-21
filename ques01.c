@@ -5,3 +5,4 @@ int main(){
     printf("the sum of :%d",x);
     return 0;
  }
+
